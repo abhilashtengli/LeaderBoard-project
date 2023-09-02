@@ -1,4 +1,4 @@
-# Leaderboard Web App
+# Leaderboard Web App [Link](https://abhilashtengli.github.io/LeaderBoard-project/)
 
 A simple web application to manage a leaderboard. Users can add player information and scores, and the leaderboard will be dynamically updated and sorted based on scores.
 
@@ -11,7 +11,7 @@ A simple web application to manage a leaderboard. Users can add player informati
 
 ## Demo
 
-You can see a live demo of the Leaderboard Web App [here](#). (Insert a link to your live demo if available)
+You can see a live demo of the Leaderboard Web App [here](https://abhilashtengli.github.io/LeaderBoard-project/).
 
 ## Technologies Used
 
